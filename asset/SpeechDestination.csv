@@ -1,0 +1,86 @@
+TEXT,DEPART,DESTINATION,ERROR
+Je pars de Montpellier et je vais à Nancy,Montpellier,Nancy,false
+Guide moi pour le trajet de Beziers à Marseille,Beziers,Marseille,false
+Je souhaite partir de Brest pour aller a Bordeaux,Brest,Bordeaux,false
+Je vais voir ma mère et mon pere a Bordeaux et je pars de Nice,Nice,Bordeaux,false
+Je vais enfin pouvoir prendre le train pour Toulouse en partant de Montpellier,Montpellier,Toulouse,false
+Je suis enfin en vacance.J'espere que mon train pour aller a Lyon n'aura pas de soucis sachant que je part de la misérable gare de Marseille,gare de Marseille,Lyon,false
+Avec toutes ces grève je pense que mon train de Marseille à Lyon va être annulé,Marseille,Lyon,false
+Pourrissez en enfer la SNCF j'ai encore raté mon train de Montpellier à Avignon,Montpellier,Avignon,false
+Alexis lache cette bouteille je veux aller à Nîmes en partant de Grenoble,Grenoble,Nîmes,false
+Trajet Marseille Bordeaux,Marseille,Bordeaux,false
+Trajet Bordeaux Marseille,Bordeaux,Marseille,false
+Trajet Toulouse Beziers,Toulouse,Beziers,false
+Trajet Beziers Toulouse,Beziers,Toulouse,false
+Putain ce téléphone fais que bugger la je veux juste aller de Bordeaux à Nancy c'est pas possible ça,Bordeaux,Nancy,false
+je veux un train pour aller a Montpellier en partant de Grenoble,Grenoble,Montpellier,false
+Je souhaite partir pour Toulouse en partant de Lille,Lille,Toulouse,false
+kali bigG Davi de Toulouse à Grenoble,Toulouse,Grenoble,false
+Je veux aller de Marseille à Paris.,Marseille,Paris,false
+Il faudrait que j'aille en vacance à Montpellier mais je part de Brest.,Brest,Montpellier,false
+Je vais rejoindre ma famille à Nice et je suis actuellement à Toulouse.,Toulouse,Nice,false
+Je vais bien mais je ne sais pas quel train prendre pour aller de Montpellier à Marseille.,Montpellier,Marseille,false
+Je ne sais pas ce que je cherche.,none,none,true
+C'est une catastrophe mon train est annulé. Je devais faire Toulouse à Montpellier demain soir mais je ne sais pas comment faire.,Toulouse,Montpellier,false
+Comment dois-je m'y prendre pour aller de Lille à Carcassone?,Lille,Carcassone,false
+Quel est le meilleur itinéraire pour aller de Auxerre à Béziers en passant par Nantes?,Auxerre,Béziers,false
+j'aimerais partir de Paris et passer par biarritz pour me rendre à Marseille.,Paris,Marseille,false
+arrivée Abbévillers et départ Abondant,Abondant,Abbévillers,false
+J'irai bien à la gare d'austerlitz depuis la gare de toulouse,gare de toulouse,gare d'austerlitz,false
+Départ Bordeaux arrivée Nice,Bordeaux,Nice,false
+Je pars pour Montpellier demain. J'habite à Montreux,Montreux,Montpellier,false
+arrivée Paris gare de lyon en partant de Béziers,Béziers,Paris gare de lyon,false
+Je dois aller à Toulon. Mais je ne sais pas comment. Je pars de Saint Ouen.,Saint Ouen,Toulon,false
+Montpellier à Strasbourg,Montpellier,Strasbourg,false
+quel est le trajet le plus cours de La Rochelle vers Cannes?,La Rochelle,Cannes,false
+Train entre Dijon et Perpignan,Dijon,Perpignan,false
+Je pars en vacance à Montpellier. J'habite à Pau,Pau,Montpellier,false
+Y'a t-il un train qui va de Beziers à Montpellier?,Beziers,Montpellier,false
+Je souhaite aller à Lille en partant de La Rochelle,La Rochelle,Lille,false
+Comment va t'on de Montpellier à Nice?,Montpellier,Nice,false
+Nous roulons en voiture,none,none,true
+Marseille à Bordeaux,Marseille,Bordeaux,false
+Depart Brest arrivée Ajaccio,Brest,Ajaccio,false
+Il me faut un train pour Toulon depuis Marseille,Marseille,Toulon,false
+Arrivée à Strasbourg en partant de Clermont-ferrand,Strasbourg,Clermont-ferrand,false
+Quel train dois-je prendre pour un Beziers-Montpellier,Beziers,Montpellier,false
+Y'a t-il un train partant de Limoges en direction de Paris,Limoges,Paris,false
+Y'a t-il un train en direction de Auxerre et partant de Cannes,Cannes,Auxerre,false
+Quelle est le chemin le plus court pour faire Montpellier à Rennes,Montpellier,Rennes,false
+Et si je dois partir de Narbonne pour Rennes?,Narbonne,Rennes,false
+Quel train va à Strasbourg depuis Narbonne?,Narbonne,Strasbourg,false
+Je pars de Toulouse. Quel est le chemin le plus opti pour aller à Nice?,Toulouse,Nice,false
+Je pars d'Avignon et je me dirige à Grenoble,Avignon,Grenoble,false
+Combien de temps pour un train partant de Paris à destination de Carcassone?,Paris,Carcassone,false
+C'est une catastrophe mon train est annulé. Je devais faire Rennes à Montpellier demain soir mais je ne sais pas comment faire.,Rennes,Montpellier,false
+Comment dois-je m'y prendre pour aller de Lille à Pau?,Lille,Pau,false
+Quel est le meilleur itinéraire pour aller de Montpellier à Béziers en passant par Nantes?,Montpellier,Béziers,false
+j'aimerais partir de Béziers et passer par biarritz pour me rendre à Marseille.,Béziers,Marseille,false
+arrivée Grenoble et départ Orleans,Orleans,Grenoble,false
+Je souhaite aller à Lyon en partant de La Rochelle,La Rochelle,Lyon,false
+Comment va t'on de Lyon à Nice?,Lyon,Nice,false
+Affiche moi les trains qui vont de Toulouse à Brest,Toulouse,Brest,false
+Je me demande comment je pourrais aller à Strasbourg en partant de chez moi de Montpellier,Montpellier,Strasbourg,false
+J'ai un seminaire d'entreprise demain il faut que je prenne le train en direction de Nantes à 17h54 mais j'ai pas trouvé de train qui part de Narbonne donc je dois partir Bordeaux,Bordeaux,Nantes,false
+Ajaccio à Bordeaux,Ajaccio,Bordeaux,false
+Depart Lyon arrivée Ajaccio,Lyon,Ajaccio,false
+Je veux partir de Coppet à St-Gervais-L-B-Le-Fayet,Coppet,St-Gervais-L-B-Le-Fayet,false
+Je veux partir de Cluses à Coppet,Cluses,Coppet,false
+Le chemin le plus court pour Dijon depuis Lille?,Lille,Dijon,false
+Je veux partir de Forbach à Metz-Ville,Forbach,Metz-Ville,false
+Je veux partir de Bening à Metz-Ville,Bening,Metz-Ville,false
+Emmène moi de St-Gervais-L-B-Le-Fayet à Coppet,St-Gervais-L-B-Le-Fayet,Coppet,false
+Emmène moi de Coppet à Cluses,Coppet,Cluses,false
+Emmène moi de Metz-Ville à Forbach,Metz-Ville,Forbach,false
+Emmène moi de Metz-Ville à Bening,Metz-Ville,Bening,false
+Comment dois-je m'y prendre pour aller de Paris-Bercy à Nevers,Paris-Bercy,Nevers,false
+Comment dois-je m'y prendre pour aller de Tours à Lyon-Perrache,Tours,Lyon-Perrache,false
+Le chemin le plus court pour La Rochelle depuis Lille?,Lille,La Rochelle,false
+Comment dois-je m'y prendre pour aller de Nevers à Lyon-Perrache,Nevers,Lyon-Perrache,false
+Comment dois-je m'y prendre pour aller de Villefranche-Vernet-l.B à Latour-de-Carol-Enveitg,Villefranche-Vernet-l.B,Latour-de-Carol-Enveitg,false
+Comment dois-je m'y prendre pour aller de Metz-Ville à Bening,Metz-Ville,Bening,false
+Quel est le meilleur itinéraire pour aller de Boulogne à Amiens,Boulogne,Amiens,false
+Quel est le meilleur itinéraire pour aller de Paris à Amiens,Paris,Amiens,false
+Quel est le meilleur itinéraire pour aller de Paris à Cambrai,Paris,Cambrai,false
+Quel est le meilleur itinéraire pour aller de Paris à Maubeuge,Paris,Maubeuge,false
+Je ne sais pas si les grève vont impacté mon trajet habituelle de Pau à Perpignan,Pau,Perpignan,false
